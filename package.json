@@ -1,0 +1,12 @@
+{
+  "name": "mario_racing",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "watch": "node src/index.js --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
